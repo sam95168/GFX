@@ -1,2 +1,2 @@
 # GFX
-Royalty Point
+Loyalty Point
